@@ -9,4 +9,5 @@ import org.springframework.stereotype.Repository;
  */
 @Repository
 public interface FlightRepo extends CrudRepository<FlightModel, Integer> {
+
 }
